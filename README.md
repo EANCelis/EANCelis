@@ -51,9 +51,9 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 Sistema de gestión con ASP.NET y SQL Server  
-- 🔹 API RESTful con autenticación JWT  
-- 🔹 Aplicaciones web con React + .NET  
+- 🔹 FixNet (Sistema WEB Responsive para clientes y prestadores)
+- 🔹 EduFlow (Sistema EDTech de gestión con ASP.NET y SQL Server)
+- 🔹 Galactic Defenders (Juego hecho con C++)  
 
 ---
 
