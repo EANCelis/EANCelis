@@ -22,14 +22,21 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> </p>
 ⚙️ Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,visualstudio,postman" /> </p>
+
 📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=EANCelis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" /> <img height="170" src="https://streak-stats.demolab.com?user=EANCelis&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF" /> </p>
+
 🚀 Featured Projects
+
 + 🔹 FixNet → Sistema web responsive para clientes y prestadores
+
 + 🔹 EduFlow → Plataforma EDTech con ASP.NET + SQL Server
+
 + 🔹 Galactic Defenders → Juego desarrollado en C++
+
 📫 Contact
 <p align="center"> <a href="mailto:cnemanuelalejandro@gmail.com"> <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" /> </a> <a href="https://www.linkedin.com/in/EANCelis/"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" /> </a> </p>
+
 ⚡ Fun Fact
 
 💡 Me gusta convertir ideas en aplicaciones reales, modernas y escalables.
