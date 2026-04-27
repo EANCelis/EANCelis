@@ -15,6 +15,7 @@
 + ⚙️ Especializado en .NET y tecnologías web modernas
 + 🚀 En constante crecimiento profesional
 🛠 Tech Stack
+
 💻 Backend
 <p align="center"> <img src="https://skillicons.dev/icons?i=dotnet,cs,sqlserver" /> </p>
 🌐 Frontend
