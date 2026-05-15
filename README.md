@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Técnico+Universitario+en+Programación+·+UTN;Backend+con+.NET+%7C+Frontend+Web+%7C+SQL+Server;Equipos+remotos+%7C+Scrum+%7C+Inglés+B1;Aprendiendo+React+%7C+Node.js+%7C+TypeScript;Buscando+mi+primera+experiencia+profesional" />
 </p>
----
  
 ## 🧑‍💻 Sobre mí
  
@@ -15,7 +14,6 @@
 - 🤝 Experiencia en equipos remotos bajo metodología Scrum (No Country)
 - 🌐 Inglés B1 — lectura técnica avanzada, escritura profesional
 - 🤖 Uso habitual de IA (Claude, ChatGPT) para debugging y aprendizaje acelerado
----
  
 ## 🛠 Tech Stack
  
@@ -37,7 +35,6 @@
 </p>
 > 🟡 Node.js · React · React Native · TypeScript — en aprendizaje activo
  
----
  
 ## 📊 GitHub Stats
  
@@ -45,7 +42,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=EANCelis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
   <img height="170" src="https://streak-stats.demolab.com?user=EANCelis&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF" />
 </p>
----
  
 ## 🚀 Proyectos destacados
  
@@ -58,7 +54,6 @@
 | 🔹 Galactic Defenders | Juego de naves desarrollado desde cero. | C++ | [GitHub](https://github.com/EANCelis/TPFinal-Programacion2) |
  
  
----
  
 ## 💼 Experiencia
  
@@ -66,7 +61,6 @@
 - 🧑‍💻 **Desarrollador Backend (Prácticas)** — No Country, remoto (Dic 2024 - Feb 2025)
 - 🌐 **Community Manager y Soporte al Cliente** — WS Finance, remoto (2021)
 - 🖥️ **Soporte Técnico Informático** — Autónomo (2017 - 2024)
----
  
 ## 📫 Contacto
  
@@ -78,7 +72,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
   </a>
 </p>
----
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2c5364,100:0f2027&height=140&section=footer" />
