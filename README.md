@@ -21,15 +21,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,java,cpp,nodejs" />
 </p>
+
 **🌐 Frontend**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react" />
 </p>
-**🗄️ Bases de datos**
+
+**🗄️ Bases de datos **
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlserver,mysql" />
 </p>
-**⚙️ Herramientas**
+
+**⚙️ Herramientas **
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
 </p>
