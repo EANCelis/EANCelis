@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Técnico Universitario en Programación — UTN, Neuquén
+- 🎓 Técnico Universitario en Programación — UTN
 - 🎯 Buscando mi primera experiencia profesional en desarrollo de software
 - ⚙️ Enfocado en backend con .NET y C#, bases de datos SQL Server y APIs REST
 - 🌱 Incorporando React, Node.js y TypeScript al stack
