@@ -54,7 +54,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EANCelis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=EANCelis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
   <img height="170" src="https://streak-stats.demolab.com?user=EANCelis&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF" />
 </p>
 
@@ -88,7 +88,7 @@
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" />
   </a>
   <a href="https://www.linkedin.com/in/EANCelis/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
