@@ -30,7 +30,7 @@
 
 **🗄️ Bases de datos**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql" />
+  <img src="https://skillicons.dev/icons?i=mssql,mysql" />
 </p>
 
 **⚙️ Herramientas**
